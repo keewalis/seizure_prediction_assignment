@@ -19,6 +19,9 @@ Logistic Regression was used as the baseline model.
 - Recall
 - F1-score
 - PR-AUC
-
+#Datasets
+-Uploaded in dataset branch
+-https://www.kaggle.com/datasets/datasetengineer/epilepsy-dataset
+-link for the large dataset
 ## Note
 The notebook contains the full code, results tables, and graphs for the assignment.
